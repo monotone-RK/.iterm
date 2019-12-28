@@ -1,1 +1,1 @@
-# .iterm
+# .iterm2
